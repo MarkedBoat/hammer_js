@@ -11,4 +11,9 @@
    -- strut 
       -- hammer-data-struct.js 复杂json结构的读写转化
 ~~~~
+##### 例子:
+###### 应用此类库写的开发后台
+[https://github.com/MarkedBoat/fastAdmin]
 
+###### 生产简历页面
+[https://markedboat.com/me/job_js]
